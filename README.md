@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raselbabu273&label=Profile%20views&color=0e75b6&style=flat" alt="raselbabu273" /> </p>
 
-------------------------------------------------------------------------------------------------------------------------------------
+--------------------
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -24,10 +24,11 @@ HeadLine: Frontend Web Developer | HTML, CSS, JavaScript, Tailwind | Creating Re
 
 ---------------------
 
-Talking about Personal Stuff:
-🛠   I’m currently working with HTML5, CSS3, JS, React.JS,, C.
-🚀   I’m currently exploring Golang, Blockchain, Rust, Solidity, Solana.
-📫   Reach me out: raselbabu273@gmail.com
-My Absolute Favorites:
-💻   I love exploring new technologies and building cool stuff.
-🍕   Meetups & Tech Events & Hackathons.
+<h3>Talking about Personal Stuff:</h3>
+<p>🛠   I’m currently working with HTML5, CSS3, JS, React.JS,, C.</p>
+<p>🚀   I’m currently exploring Golang, Blockchain, Rust, Solidity, Solana.</p>
+<p>📫   Reach me out: raselbabu273@gmail.com</p>
+
+<h4>My Absolute Favorites:</h4>
+<p>💻   I love exploring new technologies and building cool stuff.</p>
+<p>🍕   Meetups & Tech Events & Hackathons.</p>
